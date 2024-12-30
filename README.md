@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on powerbi and sql projects
 - 📫 How to reach me ...jagabandhunayak06081999@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "I'm a bigner born to expert, and this repository is my playground for learning and growth."
+
 
 <!---
 Jagabandhu-Analyst/Jagabandhu-Analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
