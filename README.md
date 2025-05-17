@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Jagabandhu-Analyst
-- 👀 I’m interested in learning new things,book reading
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on powerbi and sql projects
-- 📫 How to reach me ...jagabandhunayak06081999@gmail.com
-- ⚡ Fun fact: "I'm a bigner born to expert, and this repository is my playground for learning and growth."
+Hi there, I'm Jagabandhu Nayak 👋
+I'm a data enthusiast with a passion for analyzing and visualizing data. I'm proficient in SQL, data analysis, and data visualization.
 
 
 <!---
